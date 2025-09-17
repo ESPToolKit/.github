@@ -6,4 +6,4 @@ Build data pipelines, timers, background workers and secure integrations without
 
 Website: https://esptoolkitfrontend.onrender.com/
 
-You can support me at: https://ko-fi.com/esptoolkit#tier17581012078212
+You can support me at: https://ko-fi.com/esptoolkit
