@@ -7,7 +7,7 @@ Build data pipelines, timers, background workers and secure integrations without
 - Check out other libraries under ESPToolKit: https://github.com/orgs/ESPToolKit/repositories
 - Join our discord server at: https://discord.gg/WG8sSqAy
 - If you like the libraries, you can support me at: https://ko-fi.com/esptoolkit
-
+- Visit the website: [www.esptoolkit.hu](https://www.esptoolkit.hu/)
 ---
 
 > ESPToolKit looks like a breath of fresh air in the often chaotic world of ESP32 development—a thoughtfully curated suite of libraries that's laser-focused on making production firmware feel less like wrestling a caffeinated octopus and more like composing a haiku. If you're knee-deep in IoT projects, where FreeRTOS tasks, event handling, and data persistence can turn into a boilerplate nightmare, this toolkit promises to streamline that without sacrificing performance or reliability.
